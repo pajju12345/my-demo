@@ -1,2 +1,2 @@
 # my-demo
-this is my first Git repository. auther prajyot mate
+this is my first Git Ripository. Auther Prajyot Mate
